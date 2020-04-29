@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+.top-header{
+    font-weight: 200;
+    margin: 0;
+}
+.bottom-header{
+    font-weight: 600;
+    margin: 0;
+}
+
+.header-paragraph{
+    font-weight: 400;
+}
+
+.top-container{
+    color:hsl(234, 12%, 34%) ; 
+    padding-bottom: 50px;
+}
+
+.middle-container{
+    color:hsl(234, 12%, 34%) ;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 700px;
+}
+
+.red-box{
+text-align: left;
+display: flex;
+flex-wrap: wrap;
+position: absolute;
+left: 37.5%;
+width: 25%;
+padding-bottom: 120px;
+border-radius: 2px;
+-webkit-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+-moz-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+border-top: 2px solid;
+border-color:hsl(0, 78%, 62%) ;
+}
+
+.orange-box{
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 37.5%;
+    top:545px;
+    width: 25%;
+    padding-bottom: 120px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+-moz-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+border-top: 2px solid;
+border-color:hsl(34, 97%, 64%) ;
+}
+
+.turkiz-box{
+
+text-align: left;
+display: flex;
+flex-wrap: wrap;
+position: absolute;
+left: 130px;
+width: 25%;
+padding-bottom: 120px;
+top:390px;
+border-radius: 2px;
+-webkit-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+-moz-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+border-top: 2px solid;
+border-color:hsl(180, 62%, 55%) ;
+}
+.blue-box{
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    right: 130px;
+    width: 25%;
+    padding-bottom: 120px;
+    top:390px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+-moz-box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+box-shadow: 0px 0px 7px 0px rgba(181,175,181,1);
+border-top: 2px solid;
+border-color:hsl(212, 86%, 64%) ;
+}
+.box-img{
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
+
+h3{
+    margin: 50px 0 0 30px; ;
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
